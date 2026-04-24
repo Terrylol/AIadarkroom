@@ -29,17 +29,17 @@
 
 | 模块文件 | 功能描述 |
 |---------|---------|
-| [engine.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/engine.js) | 游戏核心引擎，全局状态管理，游戏循环 |
-| [state_manager.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/state_manager.js) | 存档/读档系统，状态持久化 |
-| [room.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/room.js) | 房间场景，建造系统，资源生产 |
-| [world.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/world.js) | 大地图探索，战斗系统，随机事件 |
-| [outside.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/outside.js) | 外出探索，采集系统 |
-| [ship.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/ship.js) | 飞船建造与管理 |
-| [space.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/space.js) | 太空场景，弹幕射击小游戏 |
-| [fabricator.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/fabricator.js) | 物品制作系统 |
-| [prestige.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/prestige.js) | 周目继承系统，多周目 |
-| [scoring.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/scoring.js) | 成就与评分系统 |
-| [localization.js](file:///Users/chengshang/Code/trae_projects/DarkRoom/script/localization.js) | 多语言支持 (27种语言) |
+| [engine.js](script/engine.js) | 游戏核心引擎，全局状态管理，游戏循环 |
+| [state_manager.js](script/state_manager.js) | 存档/读档系统，状态持久化 |
+| [room.js](script/room.js) | 房间场景，建造系统，资源生产 |
+| [world.js](script/world.js) | 大地图探索，战斗系统，随机事件 |
+| [outside.js](script/outside.js) | 外出探索，采集系统 |
+| [ship.js](script/ship.js) | 飞船建造与管理 |
+| [space.js](script/space.js) | 太空场景，弹幕射击小游戏 |
+| [fabricator.js](script/fabricator.js) | 物品制作系统 |
+| [prestige.js](script/prestige.js) | 周目继承系统，多周目 |
+| [scoring.js](script/scoring.js) | 成就与评分系统 |
+| [localization.js](script/localization.js) | 多语言支持 (27种语言) |
 
 ---
 
